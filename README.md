@@ -42,4 +42,3 @@ Sign In Screen  | Delete Screen | Forgot Passsword Screen
 Add Screen  | Home Screen (w/List) | Delete UI
 ------------- | ------------- | -------------
 <a><img src="https://github.com/cengizhanerturan/kotlin_places_to_visit_app/blob/main/app_images/add.png" width="200" height="400" /></a> | <a><img src="https://github.com/cengizhanerturan/kotlin_places_to_visit_app/blob/main/app_images/home_list.png" width="200" height="400" /></a> | <a><img src="https://github.com/cengizhanerturan/kotlin_places_to_visit_app/blob/main/app_images/delete.png" width="200" height="400" /></a>
-
